@@ -10,7 +10,7 @@
 
 __Organization:__
 1. Federation ASEAN Economic Associations
-  - Responsible as a laison officer between more than 50 delegates and technical parties.
+  - Responsible as a liaison officer between more than 50 delegates and technical parties.
   - making minutes in parallel sessions (paper presentations) about economic growth, energy efficiency, and sustainability.
 2. Himpunan Mahasiswa Program Studi Akuntansi (HMPSA)
   - Coordinator of Atma Jaya Accounting Competition (AAC).
