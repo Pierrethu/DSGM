@@ -2,7 +2,7 @@
 
 # Education
 
-- Global Master of Business Administration, Tunghai university
+- Global Master of Business Administration, Tunghai University
 - Bachelor of Accounting, Atma Jaya Yogyakarta University
 - Student exchange, Chang Jung Christian University (Feb 2023 - Jul 2023)
 
