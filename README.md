@@ -7,7 +7,9 @@
 - Student exchange, Chang Jung Christian University (Feb 2023 - Jul 2023)
 
 # Working Experience
--Federation ASEAN Economic Associations
+- Federation ASEAN Economic Associations
 -
 
 # Skills
+- Python
+- 
