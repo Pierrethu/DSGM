@@ -1,12 +1,12 @@
 # Pierre Arthur
 
-# Education
+### Education
 
 - Global Master of Business Administration, Tunghai University
 - Bachelor of Accounting, Atma Jaya Yogyakarta University
 - Student exchange, Chang Jung Christian University (Feb 2023 - Jul 2023)
 
-# Working Experience
+### Working Experience
 
 __Organization:__
 1. Federation ASEAN Economic Associations
@@ -21,7 +21,7 @@ __Organization:__
   - Led and organized events to welcome and integrate new students into the university community.
   - Led and supervised the Buddies Committee, comprising 5 members, to organize freshmen into groups.
 
-# Skills
+### Skills
 
 - __Technical Skills:__ Financial Analysis, Accounting Principles, Data Interpretation, Microsoft (word, excel, power point), Canva, MYOB, SPSS, Eviews
 - __Soft Skills:__ Teamwork, Ethical Judgment, Good Time Management, Communication, Adapting, and Detail
