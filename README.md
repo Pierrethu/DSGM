@@ -24,5 +24,5 @@ __Organization:__
 # Skills
 
 - __Technical Skills:__ Financial Analysis, Accounting Principles, Data Interpretation, Microsoft (word, excel, power point), Canva, MYOB, SPSS, Eviews
-- __Soft Skills:__ Teamwork, Good Time Management, Communication, Adapting, and Detail
+- __Soft Skills:__ Teamwork, Ethical Judgment, Good Time Management, Communication, Adapting, and Detail
 - __Language:__ Indonesian (Native), English (B2)
