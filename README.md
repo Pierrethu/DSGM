@@ -1,5 +1,9 @@
 # Pierre Arthur
 
+
+![](Pas%20Foto.jpg)
+
+
 ### Education
 
 - Global Master of Business Administration, Tunghai University
@@ -26,3 +30,5 @@ __Organization:__
 - __Technical Skills:__ Financial Analysis, Accounting Principles, Data Interpretation, Microsoft (word, excel, power point), Canva, MYOB, SPSS, Eviews
 - __Soft Skills:__ Teamwork, Ethical Judgment, Good Time Management, Communication, Adapting, and Detail
 - __Language:__ Indonesian (Native), English (B2)
+
+[def]: P
